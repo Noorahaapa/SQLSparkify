@@ -35,6 +35,3 @@ For running first create tables by running create_tables.py. This creates tables
 
 **data**
 - This folder contains the data used in this project
-
-**etl.ipynb**
-- This file was used to help build etl.py
